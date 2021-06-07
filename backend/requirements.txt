@@ -8,3 +8,11 @@ psycopg2
 
 #for env var
 python-dotenv
+
+
+#for email vatidation
+pydantic[email]
+
+
+#hashing
+passlib[bcrypt]
